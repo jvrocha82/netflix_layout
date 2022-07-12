@@ -1,0 +1,6 @@
+{
+    "api":"https://api.themoviedb.org/3/movie",
+    "api-key":"e5243cc401ea39bf21b69792e4a239f2",
+    "api-full-url":"https://api.themoviedb.org/3/movie/550?api_key=e5243cc401ea39bf21b69792e4a239f2",
+    "api-key_pt-br":"https://api.themoviedb.org/3/movie/550?api_key=e5243cc401ea39bf21b69792e4a239f2&language=pt-BR"
+}
